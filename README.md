@@ -24,6 +24,6 @@ Este projeto simula uma lâmpada interativa que pode ser ligada ou desligada com
 https://github.com/user-attachments/assets/ffedf126-a034-4787-9cbd-23344a462411
 
 ## Melhorias futuras
--Adicionar sons ao ligar/desligar
+- Adicionar sons ao ligar/desligar
 
--Responsividade para dispositivos móveis
+- Responsividade para dispositivos móveis
